@@ -1,0 +1,2 @@
+# BJO_PRAC_SMC
+연습용
