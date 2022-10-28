@@ -24,4 +24,6 @@
 -아주 쉽게 병합 가능 = Fast-forward
 
 
+## 병합하기 2
 
+실패했던 fast-forward 를 다시한번
